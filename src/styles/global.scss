@@ -1,0 +1,8 @@
+@import "./normalize.scss";
+@import "./variables-mixins.scss";
+@import "./fonts.scss";
+
+.container {
+  max-width: $container-width;
+  margin: auto;
+}
